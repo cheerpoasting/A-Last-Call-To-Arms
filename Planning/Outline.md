@@ -1,7 +1,6 @@
-## Coverage
+# Coverage
 
 There is a large amount of information that needs to be covered, and quite quickly. Some of the important points are:
-
 - **"Cosmogenesis":** What were the roots of the West?
     - How did the PIE and the Pre-Europeans create the Indo-Europeans?
     - The genetic clines in Europe
@@ -26,3 +25,7 @@ There is a large amount of information that needs to be covered, and quite quick
 - Theories of Education
 - Science, Scientific Method, Scientific Discovery
 - How the health of people effects society. 
+
+Western Psychology
+- Fundamental Attribution Error
+
