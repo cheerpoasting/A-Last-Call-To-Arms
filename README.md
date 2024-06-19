@@ -3,11 +3,35 @@
 
 Ideally, any person who reads this book, even if they have no knowledge of Western Civilization, could understand what it is, how it works, its values and ideals, and be able to reconstruct its most valuable features and institutions. 
 
+# Why the Inflammatory Title?
+- The title of this book, "A Last Call to Arms" is meant to portray the seriousness of the situation.
+- This metaphorical "call to arms" is supposed to be a rallying cry to push those who love Western Civilization to work urgently to save Her.
+- In addition to being the "last call", this book also provides the "arms"-- the strategies and information needed in order to get the job done.
+
 # Introduction
 
 Opening Quotation
 > Many times the reading of a book has made the fortune of the reader, --has decided his way of life. 
 > -- Ralph Waldo Emerson
+
+# What is the purpose of this book?
+- This book exists to preserve Western Civilizations values and institutions.
+- Western Civilization is in decline.
+	- The West is losing its connection to its identity and history.
+	- Institutions are being destroyed without being replaced.
+	- Time preference is shortening.
+- Western Civilization creates the greatest amount of human prosperity.
+	- Gave birth to capitalism.
+	- Gave birth to personal freedoms.
+	- Limited the power of government.
+	- Created huge scientific progress.
+	- Developed Libertarian Ethics.
+	- Developed the Protestant Work Ethic.
+- This book aims to preserve Western Civilization as a concept, even if she must sleep as an active force for some time.
+	- Explain the development of Western Civilization over time, starting from the earliest period with the Proto-Indo-Europeans, their mixing with the pre-Europeans, and their religious and cultural development over time.
+	- Defend the ideas of "Western Civilization", "being civilized", "whiteness", "mens rea", and other important concepts.
+	- Explain how various Western institutions (including customs) came to be, why they exist, and how they work.
+	- The essential elements of Western culture as shown in the themes expressed in the Western Canon stretching all the way back to the very beginning of writing in Europe. 
 
 ## Main Audience
 
