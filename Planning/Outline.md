@@ -1,6 +1,14 @@
 # Coverage
 
-## Introduction
+## Notes on Structure
+> [!info]- Sources
+> - [[(Adler, 1976.)]] p 7
+
+The types of questions that are often asked: 
+- "Does something exist? What kind of thing is it? What caused it to exist, or under what conditions can it exist, or why does it exist? What purpose does it serve? What are the consequences of its existence? What are its characteristic properties, its typical traits? What are its relations to other things of a similar sort, or of a different sort? How does it behave? These are all theoritical questions"
+- "What ends should be sought? What means should be chosen to a given end? What things must one do to gain a certain objective, and in what order? Under these conditions, what is the right thing to do, or the better rather than the worse? Under What conditions would it be better to do this rather than that? These are all practical questions"
+
+# Introduction
 Western Civ is in decline
 - Closing connection to identity and history
 - institutions destroyed without replacement
