@@ -19,33 +19,6 @@ The target audience for this book are younger men, ages 16-35, who are socially 
 - **Reduced Number of Emotional Appeals**: While men do respond to emotional appeals, they are more likely to view them as manipulative than women, and so they should be limited in number and scope, and avoid focusing on things which could be termed "excessive safetyism" or "political correctness".
 - **Clear Arguments backed by Facts**: A male audience is more likely to respond to facts and figures, but the active man will also prefer clear and concrete arguments he can share when talking about the book with friends. 
 
-## Coverage
 
-There is a large amount of information that needs to be covered, and quite quickly. Some of the important points are:
-
-- **"Cosmogenesis":** What were the roots of the West?
-    - How did the PIE and the Pre-Europeans create the Indo-Europeans?
-    - The genetic clines in Europe
-    - The Bronze Age Collapse
-    - The Rise of Greece & Rome, the effects of the Roman Empire
-    - Christianization, the Catholic Church, the Feudal system
-    - How Guilds replaced Clans as Catholicism expanded
-    - Later Secularization to avoid "Brother Wars" between European nations
- 
-  - **What is Civilization?**
-      - Broad versus Narrow conceptions of Civilization
-      - Civilization as long (low) time preference
-      - How subsistence patterns effect cultures (including genetic evidence)
-      - JD Unwin's Hypothesis of Marriage Patterns
-      - Civilization as a shared narrative and religious history
-      - Civilization as producing science and technology
-- Morality and Ethics
-    - **What is an Ethical System**
-        - Libertarian Ethics 
-    - Moral Systems Theory
-    - Virtues of the West
-- Theories of Education
-- Science, Scientific Method, Scientific Discovery
-- How the health of people effects society. 
 
 
