@@ -1,6 +1,19 @@
 # Coverage
 
-There is a large amount of information that needs to be covered, and quite quickly. Some of the important points are:
+## Introduction
+Western Civ is in decline
+- Closing connection to identity and history
+- institutions destroyed without replacement
+- time preference is shortening
+Western Civilization creates the greatest amount of human prosperity.
+- Gave birth to capitalism.
+- Gave birth to personal freedoms.
+- Limited the power of government.
+- Created huge scientific progress.
+- Developed Libertarian Ethics.
+- Developed the Protestant Work Ethic.
+
+## Development of Western Civ Over Time
 - **"Cosmogenesis":** What were the roots of the West?
     - How did the PIE and the Pre-Europeans create the Indo-Europeans?
     - The genetic clines in Europe
@@ -10,51 +23,15 @@ There is a large amount of information that needs to be covered, and quite quick
     - How Guilds replaced Clans as Catholicism expanded
     - Later Secularization to avoid "Brother Wars" between European nations
  
-  - **What is Civilization?**
-      - Broad versus Narrow conceptions of Civilization
-      - Civilization as long (low) time preference
-      - How subsistence patterns effect cultures (including genetic evidence)
-      - JD Unwin's Hypothesis of Marriage Patterns
-      - Civilization as a shared narrative and religious history
-      - Civilization as producing science and technology
-- Morality and Ethics
-    - **What is an Ethical System**
-        - Libertarian Ethics 
-    - Moral Systems Theory
-    - Virtues of the West
-- Theories of Education
-- Science, Scientific Method, Scientific Discovery
-- How the health of people effects society. 
-
-Western Psychology
-- Fundamental Attribution Error
-
-
-
-# What is the purpose of this book?
-- This book exists to preserve Western Civilizations values and institutions.
-- Western Civilization is in decline.
-	- The West is losing its connection to its identity and history.
-	- Institutions are being destroyed without being replaced.
-	- Time preference is shortening.
-- Western Civilization creates the greatest amount of human prosperity.
-	- Gave birth to capitalism.
-	- Gave birth to personal freedoms.
-	- Limited the power of government.
-	- Created huge scientific progress.
-	- Developed Libertarian Ethics.
-	- Developed the Protestant Work Ethic.
-- This book aims to preserve Western Civilization as a concept, even if she must sleep as an active force for some time.
-	- Explain the development of Western Civilization over time, starting from the earliest period with the Proto-Indo-Europeans, their mixing with the pre-Europeans, and their religious and cultural development over time.
-	- Defend the ideas of "Western Civilization", "being civilized", "whiteness", "mens rea", and other important concepts.
-	- Explain how various Western institutions (including customs) came to be, why they exist, and how they work.
-	- The essential elements of Western culture as shown in the themes expressed in the Western Canon stretching all the way back to the very beginning of writing in Europe. 
-
-# Why the Inflammatory Title?
-- The title of this book, "A Last Call to Arms" is meant to portray the seriousness of the situation.
-- This metaphorical "call to arms" is supposed to be a rallying cry to push those who love Western Civilization to work urgently to save Her.
-- In addition to being the "last call", this book also provides the "arms"-- the strategies and information needed in order to get the job done.
-# Civilization is Time Preference
+**What is Civilization?**
+ - Broad versus Narrow conceptions of Civilization
+- Civilization as long (low) time preference
+- How subsistence patterns effect cultures (including genetic evidence)
+- JD Unwin's Hypothesis of Marriage Patterns
+- Civilization as a shared narrative and religious history - show how PIE narrative influence continues today.
+- Civilization as producing science and technology
+- Have systems of Morality and Ethics
+# Civilization as Time Preference
 - People often define others as "civilized" when they share a large number of cultural features. This method is too culturally dependent to be useful.
 - Time preference is a culturally neutral method of determining how civilized different cultures are, as well as different groups within those cultures.
 - "Civilized" groups are those with long-time preference (called "low time preference" in the literature): they control their impulses, delay gratification, and plan for the future.
@@ -66,6 +43,25 @@ Western Psychology
 	- There is a division of labor that leads to specialization and the compounding of knowledge. They will build on previous discoveries in math, science, craftsmanship, and the arts.
 	- Systems of education are developed in various forms. 
 	- A form of self-identity emerges: a series of customs, expectations, religious beliefs, language, myths, and legends. 
+- 
+**What is an Ethical System**
+ - Libertarian Ethics 
+ - Moral Systems Theory
+ - Virtues of the West
+
+
+- Theories of Education
+- Science, Scientific Method, Scientific Discovery
+- How the health of people effects society. 
+
+Important concepts
+- western civ
+- being civilized (not subjective! can be measured via time preference)
+- whiteness
+- mens rea
+
+Western Psychology
+- Fundamental Attribution Error
 
 # Topics
 
