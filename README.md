@@ -3,6 +3,12 @@
 
 Ideally, any person who reads this book, even if they have no knowledge of Western Civilization, could understand what it is, how it works, its values and ideals, and be able to reconstruct its most valuable features and institutions. 
 
+# Introduction
+
+Opening Quotation
+> Many times the reading of a book has made the fortune of the reader, --has decided his way of life. 
+> -- Ralph Waldo Emerson
+
 ## Main Audience
 
 The target audience for this book are younger men, ages 16-35, who are socially active, and politically moderate, conservative, or libertarian. 
